@@ -1,0 +1,482 @@
+{
+  "apiPropertyData": {
+    "dueDate": "2023-02-24T19:00:00.000Z",
+    "yearBuilt": "1985",
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
+    "estimatedSquareFootage": 1901,
+    "taskrayId": "pr-131797"
+  },
+  "name": "Reno 1036470",
+  "street": "936 Francis St",
+  "city": "Lancaster",
+  "zip": "75146",
+  "state": "TX",
+  "country": "United States",
+  "geoLocation": [-96.77344930000001, 32.5940879],
+  "customBackgroundImage": "https://s3.amazonaws.com/im-production/users/j6WnaGoQl2/projects/SKbTxuRDhU/splashPhoto/SplashImage-1.jpg?AWSAccessKeyId=AKIAIBTORDPZP3IJCAHQ&Expires=1677628799&Signature=j%2BmtBsPt8klPP7juwWZB6hBVuKA%3D",
+  "propertyId": "jFsghrA6NG",
+  "scannerId": "j6WnaGoQl2",
+  "organizationId": "8rx1ztWMHm",
+  "nextProject": "",
+  "previousProject": "",
+  "propertyInfo": {
+    "propertyId": "jFsghrA6NG",
+    "features": {
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Pool": 0,
+      "Garage": 1,
+      "Plumbing Fixtures": 7,
+      "Bathtubs": 2,
+      "Fireplace": 1,
+      "Exterior Doors": 5,
+      "Interior Doors": 16,
+      "Windows": 11
+    },
+    "projectInfo": {
+      "netArea": 1930973.9844456385,
+      "wallFootprintArea": 281290.6837906195,
+      "gla": 1743223.2204285339,
+      "finishedArea": 469041.4478077242,
+      "unfinishedArea": 0,
+      "totalArea": 2212264.668236258,
+      "wallFinishedNonGlaFootprintArea": 47895.691903610656,
+      "wallUnfinishedFootprintArea": 0,
+      "wallLivableFootprintArea": 233394.99188700883,
+      "name": "Reno 1036470",
+      "projectId": "SKbTxuRDhU",
+      "listingLink": "https://www.insidemaps.com/project/SKbTxuRDhU/listing?env=production",
+      "roomToDisplayIds": [
+        "mDceZ06m2T",
+        "FFmDGPePD7",
+        "qLKFX00aYu",
+        "iJsygQfXhQ",
+        "QQpVq6ZIbK",
+        "ELRQXQycJi",
+        "uBrcdN8ZAZ",
+        "TBdshTmQiz",
+        "2E7mIbrE7M",
+        "I0cBqotgTo",
+        "ThpdfcnmpF",
+        "kyRRRPzZ2s",
+        "146icAtLtP",
+        "mfZ9F0jY8V",
+        "3NX2gvCtGP",
+        "TpTCG7Rczo",
+        "4cIbkam4gS",
+        "m0BSbgFsJX",
+        "RdfxUTB4de",
+        "V93k6AmxVH",
+        "299PamgzPu",
+        "7C2oFXevK2",
+        "rsyyso1LIX",
+        null,
+        null
+      ],
+      "numberOfFloors": 1,
+      "numberOfRooms": 6,
+      "numberOfSpins": 36
+    },
+    "sizeInfo": {
+      "interior": {
+        "floorLivableArea": 232740,
+        "floorArea": 1930973.9844456385,
+        "volume": 481220488,
+        "wallArea": 4568231,
+        "netArea": 1930973.9844456385,
+        "wallFootprintArea": 281290.6837906195,
+        "gla": 1743223.2204285339,
+        "finishedArea": 469041.4478077242,
+        "unfinishedArea": 0,
+        "wallFinishedNonGlaFootprintArea": 47896,
+        "wallUnfinishedFootprintArea": 0,
+        "wallLivableFootprintArea": 233395,
+        "totalArea": 2212264.668236258
+      },
+      "exterior": {
+        "floorArea": 433746,
+        "netArea": 433746
+      },
+      "materialInfo": {
+        "Tile": 510614,
+        "WoodFloor": 951181,
+        "Concrete": 421146,
+        "Carpet": 48031
+      }
+    }
+  },
+  "status": "finished",
+  "package": "Scoping",
+  "id": "SKbTxuRDhU",
+  "completed": true,
+  "createdAt": "2023-02-23T14:26:23.481Z",
+  "deadline": "2023-02-25T15:02:24.680Z",
+  "submittedAt": "2023-02-25T03:02:24.680Z",
+  "completedAt": "2023-02-25T07:58:39.350Z",
+  "updatedAt": "2023-02-25T07:58:39.829Z",
+  "areaLivable": 174.3223220428534,
+  "areaTotal": 221.2264668236258,
+  "paid": false,
+  "billingInfo": {
+    "livableArea": 1876,
+    "totalArea": 2381,
+    "totalNumberOfSpins": 36,
+    "numberOfVisibleSpins": 36,
+    "numberOfRooms": 31,
+    "numberOfFloors": 1
+  },
+  "deleted": false,
+  "walkthrough": {
+    "urlDirect": "https://www.insidemaps.com/app/walkthrough-v2?projectId=SKbTxuRDhU&env=production",
+    "urlEmbedded": "https://www.insidemaps.com/app/walkthrough-v2?projectId=SKbTxuRDhU&embedded=true&env=production"
+  },
+  "model": {
+    "urlDirect": "https://www.insidemaps.com/app/3dmodel?projectId=SKbTxuRDhU&env=production",
+    "urlEmbedded": "https://www.insidemaps.com/app/3dmodel/embedded?projectId=SKbTxuRDhU&env=production"
+  },
+  "listing": {
+    "urlDirect": "https://www.insidemaps.com/project/SKbTxuRDhU/listing?env=production"
+  },
+  "scopingState": "ready",
+  "scopingStatesConfig": {
+    "states": {
+      "project created": {
+        "label": "Project Created",
+        "color": "Blue",
+        "stateChanges": {},
+        "roleSettings": {
+          "tasks": {
+            "global": {
+              "r": true
+            }
+          },
+          "assets": {
+            "global": {
+              "r": true
+            }
+          },
+          "workOrders": {}
+        },
+        "featuresEnabled": {
+          "3dWalkthrough": false,
+          "floorPlan": false,
+          "downloadReports": true
+        }
+      },
+      "scanner assigned": {
+        "label": "Scanner Assigned",
+        "color": "Blue",
+        "stateChanges": {},
+        "roleSettings": {
+          "tasks": {
+            "global": {
+              "r": true
+            }
+          },
+          "assets": {
+            "global": {
+              "r": true
+            }
+          },
+          "workOrders": {}
+        },
+        "featuresEnabled": {
+          "3dWalkthrough": false,
+          "floorPlan": false,
+          "downloadReports": true
+        }
+      },
+      "uploading": {
+        "label": "Uploading",
+        "stateChanges": {},
+        "roleSettings": {
+          "tasks": {
+            "global": {
+              "r": true
+            }
+          },
+          "assets": {
+            "global": {
+              "r": true
+            }
+          },
+          "workOrders": {}
+        },
+        "featuresEnabled": {
+          "3dWalkthrough": false,
+          "floorPlan": false,
+          "downloadReports": true
+        }
+      },
+      "processing": {
+        "label": "IM Processing",
+        "color": "Amber",
+        "stateChanges": {},
+        "roleSettings": {
+          "tasks": {
+            "global": {
+              "r": true
+            }
+          },
+          "assets": {
+            "global": {
+              "r": true
+            }
+          },
+          "workOrders": {}
+        },
+        "featuresEnabled": {
+          "3dWalkthrough": false,
+          "floorPlan": false,
+          "downloadReports": true
+        }
+      },
+      "ready": {
+        "label": "Ready",
+        "color": "Green",
+        "stateChanges": {
+          "assigned": {
+            "whoCanChange": ["admin", "reviewer"],
+            "isDefaultNextState": true,
+            "transitionOnUserAssignment": true,
+            "assigneeTitle": "User"
+          }
+        },
+        "roleSettings": {
+          "tasks": {
+            "global": {
+              "r": true
+            }
+          },
+          "assets": {
+            "global": {
+              "r": true
+            }
+          },
+          "workOrders": {
+            "global": {
+              "r": true
+            }
+          }
+        },
+        "featuresEnabled": {
+          "3dWalkthrough": true,
+          "floorPlan": true,
+          "downloadReports": true
+        },
+        "canAssignUser": true
+      },
+      "assigned": {
+        "event": "ProjectAssignedSalesforce",
+        "label": "Assigned",
+        "color": "Blue",
+        "stateChanges": {
+          "reviewed": {
+            "whoCanChange": ["admin", "reviewer"],
+            "unassignUserOnTransition": true,
+            "isDefaultNextState": true,
+            "description": "Once you move the project to the Reviewed state, no changes can be made to the Tasks and Assets. The assigned Reviewer will also be unassigned from the project."
+          },
+          "ready": {
+            "whoCanChange": ["admin"],
+            "unassignUserOnTransition": true,
+            "transitionOnUserUnassignment": true
+          }
+        },
+        "roleSettings": {
+          "tasks": {
+            "global": {
+              "r": true
+            },
+            "admin": {
+              "r": true,
+              "c": true,
+              "u": true,
+              "d": true
+            },
+            "reviewer": {
+              "r": true,
+              "c": true,
+              "u": true,
+              "d": true
+            }
+          },
+          "assets": {
+            "global": {
+              "r": true
+            },
+            "admin": {
+              "r": true,
+              "c": true,
+              "u": true,
+              "d": true
+            },
+            "reviewer": {
+              "r": true,
+              "c": true,
+              "u": true,
+              "d": true
+            }
+          },
+          "workOrders": {
+            "global": {
+              "r": true
+            }
+          }
+        },
+        "featuresEnabled": {
+          "3dWalkthrough": true,
+          "floorPlan": true,
+          "downloadReports": true
+        },
+        "canAssignUser": true
+      },
+      "reviewed": {
+        "event": "ProjectReviewed",
+        "label": "Reviewed",
+        "color": "Purple",
+        "stateChanges": {
+          "ready": {
+            "whoCanChange": ["admin"]
+          },
+          "workOrders": {
+            "whoCanChange": ["admin", "reviewer"],
+            "isDefaultNextState": true,
+            "transitionOnUserAssignment": true,
+            "assigneeTitle": "Coordinator"
+          }
+        },
+        "roleSettings": {
+          "tasks": {
+            "global": {
+              "r": true
+            }
+          },
+          "assets": {
+            "global": {
+              "r": true
+            }
+          },
+          "workOrders": {
+            "global": {
+              "r": true
+            }
+          }
+        },
+        "featuresEnabled": {
+          "3dWalkthrough": true,
+          "floorPlan": true,
+          "downloadReports": true
+        },
+        "canAssignUser": true
+      },
+      "workOrders": {
+        "label": "Work Orders",
+        "color": "Blue",
+        "stateChanges": {
+          "inConstruction": {
+            "whoCanChange": ["admin", "reviewer"],
+            "isDefaultNextState": true,
+            "transitionOnUserAssignment": true,
+            "description": "Once you move the project to the In Construction state, no changes can be made to the Work Orders."
+          },
+          "ready": {
+            "whoCanChange": ["admin"],
+            "unassignUserOnTransition": true
+          },
+          "reviewed": {
+            "whoCanChange": ["admin", "reviewer"],
+            "transitionOnUserUnassignment": true,
+            "unassignUserOnTransition": true
+          }
+        },
+        "roleSettings": {
+          "workOrders": {
+            "admin": {
+              "r": true,
+              "c": true,
+              "u": true,
+              "d": true
+            },
+            "reviewer": {
+              "r": true,
+              "c": true,
+              "u": true,
+              "d": true
+            },
+            "global": {
+              "r": true
+            }
+          },
+          "tasks": {
+            "global": {
+              "r": true
+            }
+          },
+          "assets": {
+            "global": {
+              "r": true
+            }
+          }
+        },
+        "featuresEnabled": {
+          "3dWalkthrough": true,
+          "floorPlan": true,
+          "downloadReports": true
+        },
+        "canAssignUser": true
+      },
+      "inConstruction": {
+        "label": "In Construction",
+        "event": "ScopingStateChanged",
+        "color": "Purple",
+        "stateChanges": {
+          "ready": {
+            "whoCanChange": ["admin"],
+            "unassignUserOnTransition": true
+          },
+          "workOrders": {
+            "whoCanChange": ["admin", "reviewer"],
+            "isDefaultNextState": true,
+            "transitionOnUserAssignment": true
+          }
+        },
+        "roleSettings": {
+          "workOrders": {
+            "admin": {
+              "r": true
+            },
+            "reviewer": {
+              "r": true
+            }
+          },
+          "tasks": {
+            "admin": {
+              "r": true
+            },
+            "reviewer": {
+              "r": true
+            }
+          },
+          "assets": {
+            "admin": {
+              "r": true
+            },
+            "reviewer": {
+              "r": true
+            }
+          }
+        },
+        "featuresEnabled": {
+          "3dWalkthrough": true,
+          "floorPlan": true,
+          "downloadReports": true
+        },
+        "changeRequest": true,
+        "canAssignUser": true
+      }
+    },
+    "version": 11
+  }
+}

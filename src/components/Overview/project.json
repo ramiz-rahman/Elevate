@@ -1,0 +1,84 @@
+{
+  "data": {
+    "id": "SKbTxuRDhU",
+    "name": "Reno 1036470",
+    "status": "finished",
+    "package": "Scoping",
+    "street": "936 Francis St",
+    "city": "Lancaster",
+    "state": "TX",
+    "zip": "75146",
+    "country": "United States",
+    "propertyInfo": {
+      "propertyId": "jFsghrA6NG",
+      "amenityId": [],
+      "features": {
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "Pool": 0,
+        "Garage": 1,
+        "Plumbing Fixtures": 7,
+        "Bathtubs": 2,
+        "Fireplace": 1,
+        "Exterior Doors": 5,
+        "Interior Doors": 16,
+        "Windows": 11
+      }
+    },
+    "geoLocation": {
+      "__type": "GeoPoint",
+      "latitude": 32.5940879,
+      "longitude": -96.77344930000001
+    },
+    "scannerId": "j6WnaGoQl2",
+    "completed": true,
+    "createdAt": "2023-02-23T14:26:23.481Z",
+    "submittedAt": "2023-02-25T03:02:24.680Z",
+    "completedAt": "2023-02-25T07:58:39.350Z",
+    "updatedAt": "2023-02-25T07:58:39.829Z",
+    "areaLivable": 1876.3880422370694,
+    "areaTotal": 2381.2595662428257,
+    "paid": false,
+    "deleted": false,
+    "floorCount": 1,
+    "roomCount": 31,
+    "smartTagsCount": 74,
+    "agentInfo": {},
+    "walkthrough": {
+      "urlDirect": "https://www.insidemaps.com/app/walkthrough-v2?projectId=SKbTxuRDhU&env=production",
+      "urlEmbedded": "https://www.insidemaps.com/app/walkthrough-v2?projectId=SKbTxuRDhU&env=production&embedded=true"
+    },
+    "model": {
+      "urlDirect": "https://www.insidemaps.com/app/3dmodel?projectId=SKbTxuRDhU",
+      "urlEmbedded": "https://www.insidemaps.com/app/3dmodel/embedded?projectId=SKbTxuRDhU"
+    },
+    "listing": {
+      "urlDirect": "https://www.insidemaps.com/project/SKbTxuRDhU/listing"
+    },
+    "firstSpinCapturedAt": "2023-02-24 17:03:57 +0000",
+    "lastSpinCapturedAt": "2023-02-24 19:17:49 +0000",
+    "deliverableServices": [
+      "o7VgpbdCSc",
+      "DJBaAgU7FT",
+      "WYLfBJUeEk",
+      "7NRzCcVolp",
+      "xr03G5zkiC",
+      "6Fvqww56ea",
+      "ipSwZKyFsE",
+      "YkGyQ310Bl",
+      "qbC0rTY7ZP",
+      "0uPHzd9orT",
+      "drR3DbvAfF"
+    ],
+    "appVersion": "5.0.1 (2023.31.7)",
+    "inspectionConfiguration": {
+      "id": "v2A2WkyNYC",
+      "version": 113
+    }
+  },
+  "success": true,
+  "timeStamp": "2023-02-27T10:36:05.736Z",
+  "metadata": {
+    "units": "imperial"
+  }
+}

@@ -1,0 +1,23 @@
+.NavList {
+}
+
+.NavList__List {
+  list-style: none;
+  padding: calc(var(--baseline)) 0;
+}
+
+.NavList__List__Item {
+}
+
+.NavList__Item__Button {
+  width: 100%;
+  flex-direction: column;
+  text-align: center;
+  padding: calc(var(--baseline) * 3);
+  border-radius: calc(var(--baseline) * 2);
+}
+
+.NavList__Item__Button:hover {
+  background-color: black;
+  color: white;
+}
