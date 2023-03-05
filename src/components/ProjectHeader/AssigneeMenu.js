@@ -2,29 +2,11 @@ import { Typography, Tooltip, Button, Avatar, Box } from "@mui/material";
 import AccountCircleIcon from "@mui/icons-material/AccountCircle";
 import { useState } from "react";
 
-{
-  /* <Box
-sx={{
-  display: "flex",
-  alignItems: "center",
-  justifyContent: "flex-end",
-}}
->
-<Box
-  sx={{
-    width: "240px",
-    display: "flex",
-    alignItems: "center",
-    justifyContent: "space-between",
-  }}
-> */
-}
-
 const User = ({ email }) => {
   let char = null;
-  //   if (email) {
-  //     char = email.charAt();
-  //   }
+  if (email) {
+    char = email.charAt();
+  }
   return <Avatar sx={{ width: 24, height: 24 }}>{char}</Avatar>;
 };
 
