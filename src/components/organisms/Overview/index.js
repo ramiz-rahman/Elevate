@@ -7,7 +7,7 @@ import styles from "./style.module.css";
 
 import { Container } from "@mui/system";
 
-import ProjectHeader from "../ProjectHeader";
+import ProjectHeader from "../ProjectHeader/index";
 
 const latitude = propertyData.data.location[1];
 const longitude = propertyData.data.location[0];

@@ -16,12 +16,10 @@ const Text = ({ text }) => (
   </Typography>
 );
 
-const AssigneeMenu = ({ assignee }) => {
+const AssigneeChanger = ({ assignee }) => {
   const [currAssignee, setAssignee] = useState(assignee);
 
   const [assigned, setAssigned] = useState(false);
-
-  console.log(currAssignee);
 
   const handleClick = () => {
     // setAssignee(user);
@@ -58,4 +56,4 @@ const AssigneeMenu = ({ assignee }) => {
   );
 };
 
-export default AssigneeMenu;
+export default AssigneeChanger;

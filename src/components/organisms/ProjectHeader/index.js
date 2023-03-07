@@ -21,10 +21,12 @@ import AccountCircleIcon from "@mui/icons-material/AccountCircle";
 import ViewInArIcon from "@mui/icons-material/ViewInAr";
 import ForwardIcon from "@mui/icons-material/Forward";
 
-import MapLink from "./MapLink";
-import Labels from "./Labels";
-import StatusMenu from "./StatusMenu";
-import AssigneeMenu from "./AssigneeMenu";
+import MapLink from "../../atoms/map-link/map-link";
+import Labels from "../../molecules/labels/labels";
+import StatusChanger from "../../molecules/status-changer/status-changer";
+import AssigneeChanger from "../../molecules/assignee-changer/assignee-changer";
+import InspectButton from "../../atoms/inspect-button/inspect-button";
+import ProjectPhoto from "../../atoms/project-photo/project-photo";
 
 const ProjectHeader = ({ data, propertyData }) => {
   const latitude = propertyData.data.location[1];
@@ -38,18 +40,13 @@ const ProjectHeader = ({ data, propertyData }) => {
           sx={{ justifyContent: "space-between", alignItems: "center" }}
         >
           <Grid2 md="auto">
-            <CardMedia
-              component="img"
-              image={data.customBackgroundImage}
-              alt="Curb shot of house"
-              sx={{
-                width: "240px",
-                height: "120px",
-                margin: "8px",
-                borderRadius: "8px",
-                border: "2px solid #eee",
-              }}
-            />
+            <CardMedia sx={{ marginLeft: "8px" }}>
+              <ProjectPhoto
+                src={
+                  "https://s3.amazonaws.com/im-production/users/j6WnaGoQl2/projects/SKbTxuRDhU/splashPhoto/SplashImage-1.jpg?AWSAccessKeyId=AKIAIBTORDPZP3IJCAHQ&Expires=1678319999&Signature=7XqYLJGb%2FxrV8t5CgGF0YWovr78%3D"
+                }
+              />
+            </CardMedia>
           </Grid2>
 
           <Grid2 sm={4} md={3} lg="auto">
@@ -86,21 +83,12 @@ const ProjectHeader = ({ data, propertyData }) => {
                   gap: "16px",
                 }}
               >
-                <Button
-                  variant="contained"
-                  disableElevation
-                  href={`${data.walkthrough.urlDirect}&inspection=true`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <ViewInArIcon />
-                  Inspect
-                </Button>
+                <InspectButton url={data.walkthrough.urlDirect} />
 
-                <StatusMenu initialStatus={data.scopingState} />
+                <StatusChanger initialStatus={data.scopingState} />
               </Box>
 
-              <AssigneeMenu assignee="ramiz.rahman@insidemaps.com" />
+              <AssigneeChanger assignee="ramiz.rahman@insidemaps.com" />
             </CardContent>
           </Grid2>
         </Grid2>
