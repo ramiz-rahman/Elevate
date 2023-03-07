@@ -2,7 +2,7 @@ import "./App.css";
 import { Paper } from "@mui/material";
 import Sidebar from "./components/Sidebar/Sidebar";
 import { CssBaseline } from "@mui/material";
-import Overview from "./components/Overview";
+import Overview from "./components/organisms/Overview";
 
 function App() {
   return (
